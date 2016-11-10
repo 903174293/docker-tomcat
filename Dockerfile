@@ -1,5 +1,5 @@
-FROM         Ubuntu:14.04
-MAINTAINER    linx
+FROM         ubuntu:12.04
+MAINTAINER    bw
 
 #把java与tomcat添加到容器中
 ADD jdk-8u111-linux-x64.tar.gz /usr/local/
