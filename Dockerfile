@@ -1,4 +1,4 @@
-FROM         Ubuntu:14.10
+FROM         Ubuntu:14.04
 MAINTAINER    linx
 
 #把java与tomcat添加到容器中
